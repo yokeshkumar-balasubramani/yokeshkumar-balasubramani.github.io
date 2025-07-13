@@ -29,7 +29,7 @@ Hi, I'm **Yokesh Kumar**, a backend developer and application security enthusias
 **### 📫 Contact**
 - Email: yokesh@example.com
 - GitHub: [@yokeshkumar-balasubramani](https://github.com/yokeshkumar-balasubramani)
-- LinkedIn: [linkedin.com/in/yokesh](https://www.linkedin.com/in/yokesh) *(replace with your actual profile)*
+- LinkedIn: [linkedin.com/in/yokesh-kumar](https://www.linkedin.com/in/yokesh-kumar-b-a91bb120a/)
 
 Feel free to explore my work and reach out for collaborations, freelance projects, or knowledge sharing!
 
