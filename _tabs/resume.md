@@ -1,7 +1,7 @@
 ---
 title: Resume
 icon: fas fa-file-alt
-order: 5
+order: 4
 ---
 
 <div style="width: 100%; height: 800px; border: 1px solid var(--border-color); border-radius: 8px; overflow: hidden; background: var(--bg-color);">
@@ -22,7 +22,7 @@ order: 5
     <a href="/assets/resume.pdf" download style="margin: 0 10px; text-decoration: none; color: var(--link-color);">
       <i class="fas fa-download" style="font-size: 14px;"></i> Download
     </a>
-    <a href="/assets/resume.pdf#toolbar=1&navpanes=1&scrollbar=1&view=FitH" target="_blank" style="margin: 0 10px; text-decoration: none; color: var(--link-color);">
+    <a href="/assets/resume.pdf" target="_blank" style="margin: 0 10px; text-decoration: none; color: var(--link-color);">
       <i class="fas fa-print" style="font-size: 14px;"></i> Print
     </a>
   </div>
