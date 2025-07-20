@@ -6,7 +6,7 @@ tags: [security]
 author: 0xyu9i
 image:
   path: /assets/img/posts/htb/flag_command.png
-  alt: CAP Theorem - Consistency, Availability, Partition Tolerance
+  alt: Flag Command - Web Exploitation Writeup
 pin: false
 math: false
 mermaid: true
