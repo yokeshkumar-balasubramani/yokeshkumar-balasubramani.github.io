@@ -1,7 +1,7 @@
 ---
 title: About
 icon: fas fa-user
-order: 5
+order: 6
 ---
 
 <div align="center">
