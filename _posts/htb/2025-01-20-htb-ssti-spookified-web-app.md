@@ -10,7 +10,6 @@ image:
 pin: false
 math: false
 mermaid: true
-author: 0xyu9i
 ---
 
 ## Challenge Information

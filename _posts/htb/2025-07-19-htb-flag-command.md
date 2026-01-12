@@ -3,7 +3,6 @@ title: "HTB Challenge: Flag Command - Web Exploitation Writeup"
 date: 2025-07-19 14:30:00 +0530
 categories: [Hack The Box]
 tags: [security]
-author: 0xyu9i
 image:
   path: /assets/img/posts/htb/flag_command.png
   alt: Flag Command - Web Exploitation Writeup

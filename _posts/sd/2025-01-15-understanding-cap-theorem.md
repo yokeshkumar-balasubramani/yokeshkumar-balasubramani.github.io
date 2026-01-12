@@ -3,7 +3,6 @@ title: "CAP Theorem: Balancing Consistency, Availability, and Partition Toleranc
 date: 2025-07-13 14:30:00 +0530
 categories: [System Design]
 tags: [system-design]
-author: 0xyu9i
 image:
   path: /assets/img/posts/ds.png
   alt: CAP Theorem - Consistency, Availability, Partition Tolerance
